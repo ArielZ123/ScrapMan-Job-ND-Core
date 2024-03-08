@@ -8,10 +8,8 @@ I will be happy to help or get from you tips to fix things or change.
 Script Settings: At the beginning of the client side you can find coords to set for job.
 If you wish to change the price of the scrap sell please go to line 35 -> (SERVER SIDE), and change the numbers to (High or low amount) as your choice.
 
-
-Scrap item to ox-inventory:
-
 <!--
+    Scrap item to ox-inventory:
     ['scrap'] = {
 		label = 'Scrap.',
 		weight = 10,
